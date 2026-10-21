@@ -8,3 +8,7 @@
 ### mas ejemplos de arreglo o array 
 
 ![alt text](image-3.png)
+
+## resultados 
+
+![alt text](image-4.png)
